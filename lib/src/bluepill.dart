@@ -13,8 +13,7 @@ class BluePill extends StatelessWidget {
       ),
       body: Center(
         child: Image(
-          image: AssetImage(
-              '/Users/abrahaoeneias/Documentos/Dev/Flutter/app_teste/lib/src/images/blue_pill.png'),
+          image: AssetImage('/app_teste/lib/src/images/blue_pill.png'),
         ),
       ),
     );
